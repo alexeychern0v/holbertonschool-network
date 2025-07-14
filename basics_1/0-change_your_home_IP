@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Changes the home IP address and updates the hosts file accordingly.
 
 cp /etc/hosts /etc/hosts.bak
 
